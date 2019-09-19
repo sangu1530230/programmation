@@ -17,7 +17,7 @@ namespace le_bon_chemin_pour__delivrer_ma_princesse
             //conversion ici
             chemin = Convert.ToInt32(Console.ReadLine());
 
-            if (chemin == 1) 
+            if (chemin == 1)  
             {
                 Console.WriteLine("pas de probleme, vous êtes sur le bon chemin");
 
